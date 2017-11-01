@@ -1,0 +1,93 @@
+.header{
+    background-color: #F3F3F3;
+    width: 100%;
+    height: auto;
+}
+
+.header-container{
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.page-header{
+    color: #314151;
+}
+.nav-tabs li a{
+    color: white;
+    background-color: #314151;
+}
+
+.nav-tabs li a:hover{
+    color: #314151;
+}
+.body{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+/*.parallelogram {*/
+    /*width: 150px;*/
+    /*height: 30px;*/
+    /*margin-left:20px;*/
+    /*-webkit-transform: skew(-20deg);*/
+    /*-moz-transform: skew(-20deg);*/
+    /*-o-transform: skew(-20deg);*/
+    /*background: #314151;*/
+/*}*/
+/*.font{*/
+    /*font-family: 'Lato', Arial, sans-serif;*/
+/*}*/
+
+/*.aboutMe{*/
+    /*color: white;*/
+/*}*/
+
+hr {
+    display: block;
+    /*margin-top: 0.5em;*/
+    /*margin-bottom: 0.5em;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(40,211,253);
+}
+
+.font{
+    color: #314151;
+    font-family: Sans;
+    font-weight: bold;
+}
+.font-middle{
+    color: white;
+    font-family: Sans;
+    font-weight: bold;
+}
+.label-block{
+    display: inline-block;
+    width: 120px;
+    background-color: #314151;
+}
+.label-block-middle{
+    display: inline-block;
+    /*width: 120px;*/
+    min-width: 120px;
+    background-color: rgb(40,211,253);
+    color: white;
+}
+.middle-part{
+    width: 90%;
+    background-color: #314151;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.whiteFont{
+    color: white;
+}
+.list-group h5{
+    margin-top: 0px;
+}
