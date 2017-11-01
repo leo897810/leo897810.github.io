@@ -91,3 +91,10 @@ hr {
 .list-group h5{
     margin-top: 0px;
 }
+li{
+    margin-top: 5px;
+}
+
+li p{
+    margin: 5px 0px;
+}
